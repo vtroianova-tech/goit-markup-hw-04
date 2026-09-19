@@ -68,7 +68,7 @@
 }
 
 .portfolio-link:hover .portfolio-overlay,
-.portfolio-link:focus /.portfolio-overlay {
+.portfolio-link:focus .portfolio-overlay {
   transform: translateY(0%);
 }
 
@@ -82,7 +82,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  line-height: 0.02em;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
 }
